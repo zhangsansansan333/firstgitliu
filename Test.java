@@ -1,1 +1,1 @@
-int a = 11;
+char c = 'c';
